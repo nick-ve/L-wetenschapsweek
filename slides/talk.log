@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592-1.40.4 (MiKTeX 2.6) (preloaded format=pdflatex 2009.2.3)  23 OCT 2016 20:07
+This is pdfTeX, Version 3.141592-1.40.4 (MiKTeX 2.6) (preloaded format=pdflatex 2009.2.3)  26 FEB 2017 15:46
 entering extended mode
 **talk
 (talk.tex
@@ -275,9 +275,9 @@ File: radio2.jpg Graphic file (type jpg)
 <cgro.jpg, id=10, 306.4248pt x 212.9556pt>
 File: cgro.jpg Graphic file (type jpg)
  <use cgro.jpg>
-<m31.jpg, id=11, 308.352pt x 247.1634pt>
-File: m31.jpg Graphic file (type jpg)
- <use m31.jpg>
+<milky-way.png, id=11, 794.97pt x 367.3725pt>
+File: milky-way.png Graphic file (type png)
+ <use milky-way.png>
 <virgo.png, id=12, 123.3408pt x 123.3408pt>
 File: virgo.png Graphic file (type png)
  <use virgo.png>
@@ -297,20 +297,20 @@ Package Fancyhdr Warning: \headheight is too small (62.59605pt):
 
 
  <D:/nick/tex-extras/tex/latex/misc/icecubelogo.jpg> <optical2.jpg> <radio2.jpg
-> <cgro.jpg> <m31.jpg> <virgo.png (PNG copy)>]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 20.
+> <cgro.jpg> <milky-way.png (PNG copy)> <virgo.png (PNG copy)>]
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 21.
 
-LaTeX Font Info:    No file OMScmss.fd. on input line 20.
+LaTeX Font Info:    No file OMScmss.fd. on input line 21.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/bx/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 20.
+(Font)              for symbol `textbullet' on input line 21.
 
 <bang.jpg, id=17, 156.86699pt x 139.46419pt>
 File: bang.jpg Graphic file (type jpg)
  <use bang.jpg>
-Overfull \hbox (9.92824pt too wide) in paragraph at lines 38--39
+Overfull \hbox (9.92824pt too wide) in paragraph at lines 39--40
 [][][][][][][] 
  []
 
@@ -394,56 +394,51 @@ File: icecubelogo.jpg Graphic file (type jpg)
 <cosray.jpg, id=55, 996.72375pt x 1514.65875pt>
 File: cosray.jpg Graphic file (type jpg)
  <use cosray.jpg>
-File: vublogo-hor.jpg Graphic file (type jpg)
-
-<use vublogo-hor.jpg>
-File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [10
-
- <cosray.jpg>]
-<cr-low-e.png, id=59, 292.9344pt x 340.1508pt>
+<cr-low-e.png, id=56, 292.9344pt x 340.1508pt>
 File: cr-low-e.png Graphic file (type png)
  <use cr-low-e.png>
 File: vublogo-hor.jpg Graphic file (type jpg)
 
 <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [11 <cr-low-e.png>]
-<cr-all-scaled26.png, id=63, 924.45375pt x 689.57625pt>
+ <use icecubelogo.jpg> [10
+
+ <cosray.jpg> <cr-low-e.png>]
+<cr-all-scaled26.png, id=60, 924.45375pt x 689.57625pt>
 File: cr-all-scaled26.png Graphic file (type png)
 
 <use cr-all-scaled26.png>
 File: vublogo-hor.jpg Graphic file (type jpg)
  <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [12 <cr-all-scaled26.png (PNG copy)>]
+ <use icecubelogo.jpg> [11 <cr-all-scaled26.png (PNG copy)>]
 File: cr-all-scaled26.png Graphic file (type png)
  <use cr-all-scaled26.png>
 File: vublogo-hor.jpg Graphic file (type jpg)
  <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
 
-<use icecubelogo.jpg> [13] <M87jet.jpg, id=72, 402.50375pt x 342.27875pt>
+<use icecubelogo.jpg> [12] <M87jet.jpg, id=69, 402.50375pt x 342.27875pt>
 File: M87jet.jpg Graphic file (type jpg)
 
-<use M87jet.jpg> <grb.jpg, id=73, 60.225pt x 58.7796pt>
+<use M87jet.jpg> <grb.jpg, id=70, 60.225pt x 58.7796pt>
 File: grb.jpg Graphic file (type jpg)
  <use grb.jpg>
-<grb2.jpg, id=74, 3513.125pt x 2007.5pt>
+<grb2.jpg, id=71, 3513.125pt x 2007.5pt>
 File: grb2.jpg Graphic file (type jpg)
  <use grb2.jpg>
 File: vublogo-hor.jpg Graphic file (type jpg)
  <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
 
-<use icecubelogo.jpg> [14 <M87jet.jpg> <grb.jpg> <grb2.jpg>]
-<agn-1.png, id=78, 195.129pt x 227.28915pt>
+<use icecubelogo.jpg> [13 <M87jet.jpg> <grb.jpg> <grb2.jpg>]
+<agn-1.png, id=75, 195.129pt x 227.28915pt>
 File: agn-1.png Graphic file (type png)
  <use agn-1.png>
-<jet.png, id=79, 431.6928pt x 648.5028pt>
+<jet.png, id=76, 431.6928pt x 648.5028pt>
 File: jet.png Graphic file (type png)
  <use jet.png>
-Overfull \hbox (10.89366pt too wide) in paragraph at lines 202--203
+Overfull \hbox (10.89366pt too wide) in paragraph at lines 166--167
  [][][][][][][] 
  []
 
@@ -451,111 +446,111 @@ Overfull \hbox (10.89366pt too wide) in paragraph at lines 202--203
 File: vublogo-hor.jpg Graphic file (type jpg)
  <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [15 <agn-1.png (PNG copy)> <jet.png (PNG copy)>]
+ <use icecubelogo.jpg> [14 <agn-1.png (PNG copy)> <jet.png (PNG copy)>]
 Jacht op kosmische neutrinos
-<app-vertical.jpg, id=83, 91.542pt x 160.1985pt>
+<app-vertical.jpg, id=80, 91.542pt x 160.1985pt>
 File: app-vertical.jpg Graphic file (type jpg)
  <use app-vertical.jpg>
-<earth-shield.png, id=84, 294.8616pt x 629.2308pt>
+<earth-shield.png, id=81, 294.8616pt x 629.2308pt>
 File: earth-shield.png Graphic file (type png)
  <use earth-shield.png>)
 (icecube.tex
 File: vublogo-hor.jpg Graphic file (type jpg)
  <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [16
+ <use icecubelogo.jpg> [15
 
  <app-vertical.jpg> <earth-shield.png (PNG copy)>]
 De IceCube Neutrino Telescoop
-<icecube-collab.jpg, id=88, 513.92pt x 350.5095pt>
+<icecube-collab.jpg, id=85, 513.92pt x 350.5095pt>
 File: icecube-collab.jpg Graphic file (type jpg)
  <use icecube-collab.jpg>
 File: vublogo-hor.jpg Graphic file (type jpg)
 
 <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [17
+ <use icecubelogo.jpg> [16
 
  <icecube-collab.jpg>]
-<pole-view.jpg, id=92, 5018.75pt x 2922.92pt>
+<pole-view.jpg, id=89, 5018.75pt x 2922.92pt>
 File: pole-view.jpg Graphic file (type jpg)
  <use pole-view.jpg>
 File: vublogo-hor.jpg Graphic file (type jpg)
 
 <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [18 <pole-view.jpg>]
-<camp-view.png, id=97, 230.17995pt x 101.178pt>
+ <use icecubelogo.jpg> [17 <pole-view.jpg>]
+<camp-view.png, id=93, 230.17995pt x 101.178pt>
 File: camp-view.png Graphic file (type png)
  <use camp-view.png>
 File: vublogo-hor.jpg Graphic file (type jpg)
 
 <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [19 <camp-view.png (PNG copy)>]
-<counting-house.jpg, id=101, 1606.0pt x 1204.5pt>
+ <use icecubelogo.jpg> [18 <camp-view.png (PNG copy)>]
+<counting-house.jpg, id=98, 1606.0pt x 1204.5pt>
 File: counting-house.jpg Graphic file (type jpg)
  <use counting-house.jpg>
 File: vublogo-hor.jpg Graphic file (type jpg)
 
 <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [20 <counting-house.jpg>]
-<tractor.png, id=105, 194.76765pt x 146.7081pt>
+ <use icecubelogo.jpg> [19 <counting-house.jpg>]
+<tractor.png, id=102, 194.76765pt x 146.7081pt>
 File: tractor.png Graphic file (type png)
  <use tractor.png>
 File: vublogo-hor.jpg Graphic file (type jpg)
 
 <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [21 <tractor.png (PNG copy)>]
-<icl2.jpg, id=109, 501.875pt x 335.2525pt>
+ <use icecubelogo.jpg> [20 <tractor.png (PNG copy)>]
+<icl2.jpg, id=106, 501.875pt x 335.2525pt>
 File: icl2.jpg Graphic file (type jpg)
  <use icl2.jpg>
 File: vublogo-hor.jpg Graphic file (type jpg)
 
 <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [22 <icl2.jpg>]
-<ic86-dc.png, id=113, 224.037pt x 194.4063pt>
+ <use icecubelogo.jpg> [21 <icl2.jpg>]
+<ic86-dc.png, id=110, 224.037pt x 194.4063pt>
 File: ic86-dc.png Graphic file (type png)
  <use ic86-dc.png>
 File: vublogo-hor.jpg Graphic file (type jpg)
 
 <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [23 <ic86-dc.png>]
-<icetop-snow.png, id=117, 942.52126pt x 710.655pt>
+ <use icecubelogo.jpg> [22 <ic86-dc.png>]
+<icetop-snow.png, id=114, 942.52126pt x 710.655pt>
 File: icetop-snow.png Graphic file (type png)
  <use icetop-snow.png>
 File: vublogo-hor.jpg Graphic file (type jpg)
 
 <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [24 <icetop-snow.png (PNG copy)>]
-<cr-shower.jpg, id=122, 301.125pt x 280.04625pt>
+ <use icecubelogo.jpg> [23 <icetop-snow.png (PNG copy)>]
+<cr-shower.jpg, id=118, 301.125pt x 280.04625pt>
 File: cr-shower.jpg Graphic file (type jpg)
  <use cr-shower.jpg>
 File: vublogo-hor.jpg Graphic file (type jpg)
 
 <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [25 <cr-shower.jpg>]
-<hole2.jpg, id=126, 531.9875pt x 298.11375pt>
+ <use icecubelogo.jpg> [24 <cr-shower.jpg>]
+<hole2.jpg, id=123, 531.9875pt x 298.11375pt>
 File: hole2.jpg Graphic file (type jpg)
  <use hole2.jpg>
 File: vublogo-hor.jpg Graphic file (type jpg)
 
 <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [26 <hole2.jpg>]
-<dom.jpg, id=130, 165.61874pt x 164.11313pt>
+ <use icecubelogo.jpg> [25 <hole2.jpg>]
+<dom.jpg, id=127, 165.61874pt x 164.11313pt>
 File: dom.jpg Graphic file (type jpg)
  <use dom.jpg>
-<event.jpg, id=131, 198.7425pt x 301.125pt>
+<event.jpg, id=128, 198.7425pt x 301.125pt>
 File: event.jpg Graphic file (type jpg)
  <use event.jpg>
-<cone.jpg, id=132, 132.495pt x 131.0496pt>
+<cone.jpg, id=129, 132.495pt x 131.0496pt>
 File: cone.jpg Graphic file (type jpg)
  <use cone.jpg>
 Overfull \hbox (8.8437pt too wide) in paragraph at lines 64--65
@@ -565,22 +560,22 @@ Overfull \hbox (8.8437pt too wide) in paragraph at lines 64--65
 File: vublogo-hor.jpg Graphic file (type jpg)
 <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [27
+ <use icecubelogo.jpg> [26
 
- <dom.jpg> <event.jpg> <cone.jpg>] <moon-shadow1.png, id=136, 1088.065pt x 599.
+ <dom.jpg> <event.jpg> <cone.jpg>] <moon-shadow1.png, id=133, 1088.065pt x 599.
 23875pt>
 File: moon-shadow1.png Graphic file (type png)
  <use moon-shadow1.png>
-<moon-shadow2.png, id=137, 585.18625pt x 416.55624pt>
+<moon-shadow2.png, id=134, 585.18625pt x 416.55624pt>
 File: moon-shadow2.png Graphic file (type png)
  <use moon-shadow2.png>
 File: vublogo-hor.jpg Graphic file (type jpg)
 
 <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [28
+ <use icecubelogo.jpg> [27
 
- <moon-shadow1.png> <moon-shadow2.png>] <icecube-skymap-7years.png, id=141, 112
+ <moon-shadow1.png> <moon-shadow2.png>] <icecube-skymap-7years.png, id=138, 112
 4.2pt x 761.84625pt>
 File: icecube-skymap-7years.png Graphic file (type png)
 
@@ -589,11 +584,21 @@ File: vublogo-hor.jpg Graphic file (type jpg)
  <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
 
-<use icecubelogo.jpg> [29
+<use icecubelogo.jpg> [28
 
  <icecube-skymap-7years.png (PNG copy)>]
 Neutrinos van kosmische gammaflitsen
-<atm-bkg.png, id=145, 415.5525pt x 629.35126pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+<atm-bkg.png, id=142, 415.5525pt x 629.35126pt>
 File: atm-bkg.png Graphic file (type png)
  <use atm-bkg.png>
 Overfull \vbox (7.11317pt too high) has occurred while \output is active []
@@ -602,67 +607,67 @@ File: vublogo-hor.jpg Graphic file (type jpg)
 
 <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [30
+ <use icecubelogo.jpg> [29
 
  <atm-bkg.png (PNG copy)>])
 (muppets.tex
 The Muppets on Ice
-<bert.png, id=150, 772.8875pt x 705.63625pt>
+<bert.png, id=146, 772.8875pt x 705.63625pt>
 File: bert.png Graphic file (type png)
  <use bert.png>
-<ernie.png, id=151, 773.89125pt x 704.6325pt>
+<ernie.png, id=147, 773.89125pt x 704.6325pt>
 File: ernie.png Graphic file (type png)
  <use ernie.png>
 File: vublogo-hor.jpg Graphic file (type jpg)
 
 <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [31
+ <use icecubelogo.jpg> [30
 
  <bert.png> <ernie.png>]
-<kermit.png, id=155, 769.87625pt x 705.63625pt>
+<kermit.png, id=152, 769.87625pt x 705.63625pt>
 File: kermit.png Graphic file (type png)
  <use kermit.png>
-<miss-piggy.png, id=156, 771.88374pt x 704.6325pt>
+<miss-piggy.png, id=153, 771.88374pt x 704.6325pt>
 File: miss-piggy.png Graphic file (type png)
  <use miss-piggy.png>
 File: vublogo-hor.jpg Graphic file (type jpg)
 
 <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [32
+ <use icecubelogo.jpg> [31
 
  <kermit.png> <miss-piggy.png>]
-<dr-strangepork.png, id=160, 770.88pt x 704.6325pt>
+<dr-strangepork.png, id=157, 770.88pt x 704.6325pt>
 File: dr-strangepork.png Graphic file (type png)
  <use dr-strangepork.png>
-<gonzo-the-great.png, id=161, 771.88374pt x 705.63625pt>
+<gonzo-the-great.png, id=158, 771.88374pt x 705.63625pt>
 File: gonzo-the-great.png Graphic file (type png)
 
 <use gonzo-the-great.png>
 File: vublogo-hor.jpg Graphic file (type jpg)
  <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [33
+ <use icecubelogo.jpg> [32
 
  <dr-strangepork.png> <gonzo-the-great.png>]
-<big-bird.png, id=165, 652.4375pt x 598.235pt>
+<big-bird.png, id=162, 652.4375pt x 598.235pt>
 File: big-bird.png Graphic file (type png)
  <use big-bird.png>
-<big-bird-photo.jpg, id=166, 1505.625pt x 2035.605pt>
+<big-bird-photo.jpg, id=163, 1505.625pt x 2035.605pt>
 File: big-bird-photo.jpg Graphic file (type jpg)
  <use big-bird-photo.jpg>
 File: vublogo-hor.jpg Graphic file (type jpg)
 
 <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [34
+ <use icecubelogo.jpg> [33
 
- <big-bird.png (PNG copy)> <big-bird-photo.jpg>] <hese-e.png, id=170, 810.02625
+ <big-bird.png (PNG copy)> <big-bird-photo.jpg>] <hese-e.png, id=167, 810.02625
 pt x 552.0625pt>
 File: hese-e.png Graphic file (type png)
 
-<use hese-e.png> <hese-decl-vs-e.png, id=171, 1094.0875pt x 731.73375pt>
+<use hese-e.png> <hese-decl-vs-e.png, id=168, 1094.0875pt x 731.73375pt>
 File: hese-decl-vs-e.png Graphic file (type png)
 
 <use hese-decl-vs-e.png>
@@ -673,9 +678,9 @@ Overfull \hbox (12.75722pt too wide) in paragraph at lines 65--67
 File: vublogo-hor.jpg Graphic file (type jpg)
 <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [35
+ <use icecubelogo.jpg> [34
 
- <hese-e.png> <hese-decl-vs-e.png>] <hese-skymap-gal.png, id=175, 1032.85875pt 
+ <hese-e.png> <hese-decl-vs-e.png>] <hese-skymap-gal.png, id=172, 1032.85875pt 
 x 617.30624pt>
 File: hese-skymap-gal.png Graphic file (type png)
 
@@ -684,7 +689,7 @@ File: vublogo-hor.jpg Graphic file (type jpg)
  <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
 
-<use icecubelogo.jpg> [36
+<use icecubelogo.jpg> [35
 
  <hese-skymap-gal.png>]
 Vooruitzichten
@@ -692,7 +697,7 @@ Vooruitzichten
 File: vublogo-hor.jpg Graphic file (type jpg)
  <use vublogo-hor.jpg>
 File: icecubelogo.jpg Graphic file (type jpg)
- <use icecubelogo.jpg> [37
+ <use icecubelogo.jpg> [36
 
 ] (talk.aux)
 
@@ -700,8 +705,8 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 3590 strings out of 95282
- 37301 string characters out of 1185182
+ 3574 strings out of 95282
+ 37227 string characters out of 1185182
  85414 words of memory out of 1086042
  5908 multiletter control sequences out of 60000
  21701 words of font info for 87 fonts, out of 1000000 for 2000
@@ -711,9 +716,9 @@ Here is how much of TeX's memory you used:
 /cmbx12.pfb><c:/texmf/fonts/type1/bluesky/cm/cmex10.pfb><c:/texmf/fonts/type1/b
 luesky/cm/cmmib10.pfb><c:/texmf/fonts/type1/bluesky/cm/cmssbx10.pfb><c:/texmf/f
 onts/type1/bluesky/cm/cmsy10.pfb>
-Output written on talk.pdf (38 pages, 11803194 bytes).
+Output written on talk.pdf (37 pages, 11888412 bytes).
 PDF statistics:
- 205 PDF objects out of 300000 (max. 8388607)
+ 202 PDF objects out of 300000 (max. 8388607)
  0 named destinations out of 300000 (max. 131072)
  276 words of extra memory for PDF output out of 65536 (max. 10000000)
 
